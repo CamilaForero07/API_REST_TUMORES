@@ -38,7 +38,7 @@ Request:
 "mean_perimeter": 92.3,
 "mean_area": 650
 }
-
+Nota: el modelo requiere 30 características como entrada.
 Response:
 {
 "diagnostico": "maligno",

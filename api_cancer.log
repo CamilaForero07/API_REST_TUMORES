@@ -1,0 +1,41 @@
+2026-04-06 19:46:31,383 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 19:46:32,514 | INFO | Modelo cargado correctamente
+2026-04-06 19:50:39,860 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 19:50:40,608 | INFO | Modelo cargado correctamente
+2026-04-06 19:50:46,855 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 19:50:47,537 | INFO | Modelo cargado correctamente
+2026-04-06 19:51:02,295 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 19:51:02,791 | INFO | Modelo cargado correctamente
+2026-04-06 19:51:38,314 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 19:51:39,797 | INFO | Modelo cargado correctamente
+2026-04-06 19:52:45,751 | INFO | Endpoint raiz consultado
+2026-04-06 19:52:45,965 | INFO | Solicitud recibida desde 34.186.56.104
+2026-04-06 19:52:45,973 | INFO | Diagnostico: benigno | Confianza: 100.0% | Tiempo: 8.13ms
+2026-04-06 19:52:46,184 | INFO | Solicitud recibida desde 34.186.56.104
+2026-04-06 19:52:46,190 | INFO | Diagnostico: maligno | Confianza: 100.0% | Tiempo: 6.13ms
+2026-04-06 19:52:46,394 | INFO | Consulta de metricas
+2026-04-06 19:52:46,610 | INFO | Health check ejecutado
+2026-04-06 20:21:41,102 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 20:21:43,100 | INFO | Endpoint raiz consultado
+2026-04-06 20:21:43,121 | INFO | Modelo cargado correctamente
+2026-04-06 20:21:43,666 | INFO | Solicitud recibida desde 34.186.56.104
+2026-04-06 20:21:43,678 | INFO | Diagnostico: benigno | Confianza: 100.0% | Tiempo: 12.0ms
+2026-04-06 20:21:44,408 | INFO | Solicitud recibida desde 34.186.56.104
+2026-04-06 20:21:44,425 | INFO | Diagnostico: maligno | Confianza: 100.0% | Tiempo: 16.79ms
+2026-04-06 20:21:44,969 | INFO | Consulta de metricas
+2026-04-06 20:21:45,519 | INFO | Health check ejecutado
+2026-04-06 20:23:47,519 | INFO | Endpoint raiz consultado
+2026-04-06 20:43:43,360 | INFO | Endpoint raiz consultado
+2026-04-06 20:51:36,962 | INFO | Solicitud recibida desde 186.84.20.89
+2026-04-06 20:51:36,966 | INFO | Diagnostico: maligno | Confianza: 99.78% | Tiempo: 4.46ms
+2026-04-06 21:00:27,416 | INFO | Solicitud recibida desde 186.84.20.89
+2026-04-06 21:00:27,419 | INFO | Diagnostico: maligno | Confianza: 99.78% | Tiempo: 3.07ms
+2026-04-06 21:11:17,975 | INFO | NumExpr defaulting to 2 threads.
+2026-04-06 21:11:19,084 | INFO | Modelo cargado correctamente
+2026-04-06 21:11:20,114 | INFO | Endpoint raiz consultado
+2026-04-06 21:11:20,521 | INFO | Solicitud recibida desde 34.186.56.104
+2026-04-06 21:11:20,530 | INFO | Diagnostico: benigno | Confianza: 100.0% | Tiempo: 8.96ms
+2026-04-06 21:11:20,987 | INFO | Solicitud recibida desde 34.186.56.104
+2026-04-06 21:11:20,996 | INFO | Diagnostico: maligno | Confianza: 100.0% | Tiempo: 8.48ms
+2026-04-06 21:11:21,406 | INFO | Consulta de metricas
+2026-04-06 21:11:21,745 | INFO | Health check ejecutado
